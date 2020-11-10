@@ -1,0 +1,22 @@
+{
+  "name": "renewable",
+  "version": "1.0.0",
+  "description": "Renewable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dr-montasir/renewable.git"
+  },
+  "keywords": [
+    "renewable"
+  ],
+  "author": "Montasir Mirghani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dr-montasir/renewable/issues"
+  },
+  "homepage": "https://github.com/dr-montasir/renewable#readme"
+}
